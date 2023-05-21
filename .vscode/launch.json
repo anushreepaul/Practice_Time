@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "sort_zero_and_one",
+            "request": "launch",
+            "mainClass": "sort_zero_and_one",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
             "name": "insert_A_number_in_a_sorted_manner",
             "request": "launch",
             "mainClass": "insert_A_number_in_a_sorted_manner",
