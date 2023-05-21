@@ -1,0 +1,238 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "most_frequent_element",
+            "request": "launch",
+            "mainClass": "most_frequent_element",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
+            "name": "max_frequency_of_element_in_array",
+            "request": "launch",
+            "mainClass": "max_frequency_of_element_in_array",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
+            "name": "frequency_of_each_element_in_array",
+            "request": "launch",
+            "mainClass": "frequency_of_each_element_in_array",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
+            "name": "diamond_shape",
+            "request": "launch",
+            "mainClass": "diamond_shape",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AP_Series",
+            "request": "launch",
+            "mainClass": "AP_Series",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
+            "name": "Armstrong_Number",
+            "request": "launch",
+            "mainClass": "Armstrong_Number",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
+            "name": "Even_Number_In_Range",
+            "request": "launch",
+            "mainClass": "Even_Number_In_Range",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
+            "name": "Even_Numbers",
+            "request": "launch",
+            "mainClass": "Even_Numbers",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
+            "name": "Find_Prime",
+            "request": "launch",
+            "mainClass": "Find_Prime",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
+            "name": "Floyd_Triangle",
+            "request": "launch",
+            "mainClass": "Floyd_Triangle",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
+            "name": "GP_Series",
+            "request": "launch",
+            "mainClass": "GP_Series",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome_checking",
+            "request": "launch",
+            "mainClass": "Palindrome_checking",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
+            "name": "Pattern_2",
+            "request": "launch",
+            "mainClass": "Pattern_2",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
+            "name": "Pattern_4",
+            "request": "launch",
+            "mainClass": "Pattern_4",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
+            "name": "Prime_Checking",
+            "request": "launch",
+            "mainClass": "Prime_Checking",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
+            "name": "Reverse_array",
+            "request": "launch",
+            "mainClass": "Reverse_array",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
+            "name": "Sum_of_even_index_elements",
+            "request": "launch",
+            "mainClass": "Sum_of_even_index_elements",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
+            "name": "checking_number_perfect_Square",
+            "request": "launch",
+            "mainClass": "checking_number_perfect_Square",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
+            "name": "equilateral_triangle",
+            "request": "launch",
+            "mainClass": "equilateral_triangle",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "factorial",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
+            "name": "fibonacci",
+            "request": "launch",
+            "mainClass": "fibonacci",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
+            "name": "find_duplicate_anywhere",
+            "request": "launch",
+            "mainClass": "find_duplicate_anywhere",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
+            "name": "find_duplicate_at_adjacent",
+            "request": "launch",
+            "mainClass": "find_duplicate_at_adjacent",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
+            "name": "number_to_word_in_reverse",
+            "request": "launch",
+            "mainClass": "number_to_word_in_reverse",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
+            "name": "pair_sum_Exists_or_not",
+            "request": "launch",
+            "mainClass": "pair_sum_Exists_or_not",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
+            "name": "pattern_5",
+            "request": "launch",
+            "mainClass": "pattern_5",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
+            "name": "pattern_print_3",
+            "request": "launch",
+            "mainClass": "pattern_print_3",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
+            "name": "reverse_number",
+            "request": "launch",
+            "mainClass": "reverse_number",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
+            "name": "sum_of_elements",
+            "request": "launch",
+            "mainClass": "sum_of_elements",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
+            "name": "swapping_of_two_numbers",
+            "request": "launch",
+            "mainClass": "swapping_of_two_numbers",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
+            "name": "user_defined_pow",
+            "request": "launch",
+            "mainClass": "user_defined_pow",
+            "projectName": "Practice_Time_ef4d66f7"
+        }
+    ]
+}
