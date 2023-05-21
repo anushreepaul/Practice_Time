@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "selection_sort",
+            "request": "launch",
+            "mainClass": "selection_sort",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
+            "name": "insertion_sort",
+            "request": "launch",
+            "mainClass": "insertion_sort",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
+            "name": "bubble_Sort",
+            "request": "launch",
+            "mainClass": "bubble_Sort",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
+            "name": "remove_duplicate_element",
+            "request": "launch",
+            "mainClass": "remove_duplicate_element",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
+            "name": "print_duplicate_elements",
+            "request": "launch",
+            "mainClass": "print_duplicate_elements",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
             "name": "rotate_array",
             "request": "launch",
             "mainClass": "rotate_array",
