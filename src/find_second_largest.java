@@ -11,8 +11,9 @@ public class find_second_largest
         {
             if (arr[i] > max1)
             {
-                max1 = arr[i] ;
                 max2 = max1 ;
+                max1 = arr[i] ;
+                
             }
 
             else if (arr[i] > max2)
@@ -21,7 +22,7 @@ public class find_second_largest
             }
         }
 
-        System.out.print("The second largest element is : "+max1);
+        System.out.print("The second largest element is : "+max2);
         
     }
     
