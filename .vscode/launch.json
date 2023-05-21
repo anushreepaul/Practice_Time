@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "find_second_largest",
+            "request": "launch",
+            "mainClass": "find_second_largest",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
             "name": "most_frequent_element",
             "request": "launch",
             "mainClass": "most_frequent_element",
