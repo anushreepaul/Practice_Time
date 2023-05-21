@@ -25,10 +25,15 @@ public class insertion_sort
             arr[j+1] = temp ;
 
         }
+
+        for(int x : arr)
+        {
+            System.out.print(x+" ");
+        }
     }
     public static void main(String[] args) 
     {
-        int[] arr = {2,4,3,7,8,1} ;
+        int[] arr = {1,9,3,4,5,0,0,0} ;
         int n = arr.length ;
 
         sort(arr,n) ;
