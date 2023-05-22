@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "count_frequency_in_string",
+            "request": "launch",
+            "mainClass": "count_frequency_in_string",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
+            "name": "remove_spaces_from_String",
+            "request": "launch",
+            "mainClass": "remove_spaces_from_String",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
+            "name": "checking_string_palindrome",
+            "request": "launch",
+            "mainClass": "checking_string_palindrome",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
+            "name": "extract_except__vowels_from_string",
+            "request": "launch",
+            "mainClass": "extract_except__vowels_from_string",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
+            "name": "extract_vowels_from_string",
+            "request": "launch",
+            "mainClass": "extract_vowels_from_string",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
+            "name": "vowel_present_check",
+            "request": "launch",
+            "mainClass": "vowel_present_check",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
+            "name": "reverse_string_in_java",
+            "request": "launch",
+            "mainClass": "reverse_string_in_java",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
+            "name": "shift_negative_to_right",
+            "request": "launch",
+            "mainClass": "shift_negative_to_right",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
             "name": "sort_zero_and_one",
             "request": "launch",
             "mainClass": "sort_zero_and_one",
