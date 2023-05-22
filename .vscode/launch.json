@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "find_distict_characters",
+            "request": "launch",
+            "mainClass": "find_distict_characters",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
             "name": "count_frequency_in_string",
             "request": "launch",
             "mainClass": "count_frequency_in_string",

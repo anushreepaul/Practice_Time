@@ -1,28 +1,28 @@
-public class count_frequency_in_string {
+public class count_frequency_in_string 
+{
     public static void main(String[] args) 
     {
         String str = "AnushreeAAA";
-        int[] charCount = new int[256]; // Assuming ASCII characters
+        int[] arr = new int[256] ;
 
-        // Count the occurrence of each character in the string
-        for (int i = 0; i < str.length(); i++) 
+        for(int i = 0 ; i < str.length() ; i++)
         {
-            charCount[str.charAt(i)]++;
+            arr[str.charAt(i)]++ ;
         }
 
-        char maxChar = '\0';
-        int maxCount = -1;
+        
+        int max_count = 0 ;
+        char character_Appear = '\0' ;
 
-        // Find the character with the maximum count
-        for (int i = 0; i < 256; i++) 
+        for(int i = 0 ; i < 256 ; i++)
         {
-            if (charCount[i] > maxCount) 
+            if(arr[i] > max_count)
             {
-                maxCount = charCount[i];
-                maxChar = (char) i;
+                max_count = arr[i] ;
+                character_Appear = (char) i ;
             }
         }
 
-        System.out.println("The maximum occurring character is: " + maxChar);
+        System.out.println(character_Appear);
     }
 }
