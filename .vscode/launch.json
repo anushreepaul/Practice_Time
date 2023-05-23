@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "swap_even_elements_array",
+            "request": "launch",
+            "mainClass": "swap_even_elements_array",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
             "name": "test",
             "request": "launch",
             "mainClass": "test",
