@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "make_Diagonal_elements_of_a_matrix_as_zero",
+            "request": "launch",
+            "mainClass": "make_Diagonal_elements_of_a_matrix_as_zero",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
             "name": "Addition_Of_Two_Matrix",
             "request": "launch",
             "mainClass": "Addition_Of_Two_Matrix",
