@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "aleternatively_rearrange_positve_negative",
+            "request": "launch",
+            "mainClass": "aleternatively_rearrange_positve_negative",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
+            "name": "moving_negative_to_left",
+            "request": "launch",
+            "mainClass": "moving_negative_to_left",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
+            "name": "swap_negative_with_positive",
+            "request": "launch",
+            "mainClass": "swap_negative_with_positive",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
             "name": "swap_even_elements_array",
             "request": "launch",
             "mainClass": "swap_even_elements_array",
