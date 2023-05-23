@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Addition_Of_Two_Matrix",
+            "request": "launch",
+            "mainClass": "Addition_Of_Two_Matrix",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
             "name": "aleternatively_rearrange_positve_negative",
             "request": "launch",
             "mainClass": "aleternatively_rearrange_positve_negative",
