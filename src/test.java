@@ -1,4 +1,4 @@
-//program to print 3 * 3 matrix (elements are taken from array): asked in SD Wot interview Round - 2 
+//program to print 3 * 3 matrix (elements are taken from array)
 import java.util.Scanner;
 
 public class test
@@ -34,16 +34,12 @@ public class test
                  if(count > value - 1)
                  {
                      System.out.println();
+                     count = 0 ;
+                     count2++ ;
                     
                  }
 
-                 if (count > value - 1)
-                 { 
-                    count = 0 ;
-                    count2++ ;
-                 }
-
-                 if(count2 > value - 1)
+                if(count2 > value - 1)
                  {
                     break ;
                  }
