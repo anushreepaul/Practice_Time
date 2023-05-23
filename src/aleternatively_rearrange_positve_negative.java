@@ -2,7 +2,7 @@ public class aleternatively_rearrange_positve_negative
 {
     public static void main(String[] args) 
     {
-        int[] arr = {-1,7,-3,-2,9,8} ;
+        int[] arr = {-1,7,-3,-2,9,-8} ;
 
         int n = arr.length ;
 
