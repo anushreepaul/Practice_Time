@@ -1,32 +1,77 @@
-public class test{
-    public static void rotateMatrix(int[] array) {
-        if (array.length < 9) {
-            System.out.println("Error: Array should contain at least 9 elements.");
-            return;
+//program to print 3 * 3 matrix (elements are taken from array): asked in SD Wot interview Round - 2 
+import java.util.Scanner;
+
+public class test
+{
+    /**
+     * @param arr
+     * @param n
+     * @param value
+     */
+    static void print_matrix (int[] arr , int n ,int value)
+    {
+        int count = 0 ;
+
+        int count2 = 0 ;
+
+       
+        if(value > arr.length - 1)
+        {
+            return ;
         }
 
-        int[][] matrix = new int[3][3];
-        int index = 0;
+      
+             for(int j = 0 ; j < n  ; j++)
+             {
+                
+               
 
-        // Fill the matrix with array elements in a cyclic manner
-        for (int i = 0; i < 3; i++) {
-            for (int j = 0; j < 3; j++) {
-                matrix[i][j] = array[index % array.length];
-                index++;
-            }
+                 System.out.print(arr[j]+" ");
+
+                 count++ ;
+
+
+                 if(count > value - 1)
+                 {
+                     System.out.println();
+                    
+                 }
+
+                 if (count > value - 1)
+                 { 
+                    count = 0 ;
+                    count2++ ;
+                 }
+
+                 if(count2 > value - 1)
+                 {
+                    break ;
+                 }
+
+                if (j == n - 1 )
+                {
+                    j = j % (n-1) - 1 ;
+                }              
+             
         }
 
-        // Print the matrix
-        for (int i = 0; i < 3; i++) {
-            for (int j = 0; j < 3; j++) {
-                System.out.print(matrix[i][j] + " ");
-            }
-            System.out.println();
-        }
     }
 
-    public static void main(String[] args) {
-        int[] elements = {1, 2, 3, 4, 5, 6, 7};
-        rotateMatrix(elements);
+    public static void main(String[] args) 
+    {
+        Scanner sc = new Scanner(System.in);
+        int[] arr = {5,7,9,10,12} ;
+
+
+        int n = arr.length ;
+
+        System.out.println("Enter the value : ");
+
+        int value = sc.nextInt() ;
+
+        print_matrix(arr, n , value );
+
+        sc.close();
+        
     }
 }
