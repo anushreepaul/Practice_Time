@@ -47,6 +47,8 @@ public class Addition_Of_Two_Matrix
             }
         }
 
+        sc.close();
+
 
         
     }
