@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "tic_tac_toe",
+            "request": "launch",
+            "mainClass": "tic_tac_toe",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
             "name": "make_Diagonal_elements_of_a_matrix_as_zero",
             "request": "launch",
             "mainClass": "make_Diagonal_elements_of_a_matrix_as_zero",
