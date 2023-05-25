@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "move_negative_to_one_side",
+            "request": "launch",
+            "mainClass": "move_negative_to_one_side",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
+            "name": "sort_array_0_1_2",
+            "request": "launch",
+            "mainClass": "sort_array_0_1_2",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
+            "name": "Find_Kth_Max_Min",
+            "request": "launch",
+            "mainClass": "Find_Kth_Max_Min",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
             "name": "max_and_min_in_array",
             "request": "launch",
             "mainClass": "max_and_min_in_array",
