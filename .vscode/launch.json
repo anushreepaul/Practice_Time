@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "max_and_min_in_array",
+            "request": "launch",
+            "mainClass": "max_and_min_in_array",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
+            "name": "Reverse_array_elements",
+            "request": "launch",
+            "mainClass": "Reverse_array_elements",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
             "name": "tic_tac_toe",
             "request": "launch",
             "mainClass": "tic_tac_toe",
