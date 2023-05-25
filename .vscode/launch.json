@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Union_Intersection",
+            "request": "launch",
+            "mainClass": "Union_Intersection",
+            "projectName": "Practice_Time_ef4d66f7"
+        },
+        {
+            "type": "java",
             "name": "move_negative_to_one_side",
             "request": "launch",
             "mainClass": "move_negative_to_one_side",
